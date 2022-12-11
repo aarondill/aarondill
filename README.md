@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A random person with a computer.</h3>
 
+
 ### What I'm Learning:
 * Node.js
 * TypeScript
 * How to do black magic with Vercel server-less functions.
 
 ### Languages and Tools:
+
+- <a href="https://vercel.com/" ><img src="https://res.cloudinary.com/crunchbase-production/image/upload/dtokjerhk1dxyludtlwc" alt="Vercel" width="40" height="40" /></a> Vercel
+
 - <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> Node.js
 
 - <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> Typescript
