@@ -30,7 +30,7 @@
 - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> Python
 
 ### Languages on Github:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats:
-[![aarondill's github stats](https://github-readme-stats.vercel.app/api?username=aarondill&count_private=true&show_icons=true)](https://github.com/aarondill)
+[![aarondill's github stats](https://github-readme-stats.vercel.app/api?username=aarondill&count_private=true&show_icons=true&theme=transparent)](https://github.com/aarondill)
