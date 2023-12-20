@@ -5,7 +5,6 @@
 ### What I'm Learning:
 * Node.js
 * TypeScript
-* How to do black magic with Vercel server-less functions.
 
 ### Languages and Tools:
 
@@ -28,6 +27,8 @@
 - <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> Bash
 
 - <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> Python
+
+- <a href="https://www.lua.org" ><img src="https://www.lua.org/images/logo.gif" alt="Lua" width="40" height="40" /></a> Lua
 
 ### Languages on Github:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
