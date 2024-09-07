@@ -20,4 +20,4 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarondill&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Github Stats:
-[![aarondill's github stats](https://github-readme-stats.vercel.app/api?username=aarondill&count_private=true&show_icons=true&theme=transparent)](https://github.com/aarondill)
+[![aarondill's github stats](https://github-readme-stats.vercel.app/api?username=aarondill&count_private=true&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5)](https://github.com/aarondill)
