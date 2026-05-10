@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-- <a href="https://vercel.com/" ><img src="https://res.cloudinary.com/crunchbase-production/image/upload/dtokjerhk1dxyludtlwc" alt="Vercel" width="40" height="40" /></a> Vercel
+- <a href="https://vercel.com/" ><img src="https://vercel.com/favicon.ico" alt="Vercel" width="40" height="40" /></a> Vercel
 - <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> Node.js
 - <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> Typescript
 - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> Javascript
